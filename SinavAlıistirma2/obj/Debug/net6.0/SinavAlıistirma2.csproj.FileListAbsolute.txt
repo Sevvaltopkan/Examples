@@ -1,0 +1,14 @@
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\SinavAlıistirma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\SinavAlıistirma2.AssemblyInfoInputs.cache
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\SinavAlıistirma2.AssemblyInfo.cs
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\SinavAlıistirma2.csproj.CoreCompileInputs.cache
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\bin\Debug\net6.0\SinavAlıistirma2.exe
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\bin\Debug\net6.0\SinavAlıistirma2.deps.json
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\bin\Debug\net6.0\SinavAlıistirma2.runtimeconfig.json
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\bin\Debug\net6.0\SinavAlıistirma2.dll
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\bin\Debug\net6.0\SinavAlıistirma2.pdb
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\SinavAlıistirma2.dll
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\refint\SinavAlıistirma2.dll
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\SinavAlıistirma2.pdb
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\SinavAlıistirma2.genruntimeconfig.cache
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\SinavAlıistirma2\obj\Debug\net6.0\ref\SinavAlıistirma2.dll
