@@ -1,0 +1,15 @@
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\bin\Debug\net6.0\SinavAlistirma.exe
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\bin\Debug\net6.0\SinavAlistirma.deps.json
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\bin\Debug\net6.0\SinavAlistirma.runtimeconfig.json
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\bin\Debug\net6.0\SinavAlistirma.dll
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\bin\Debug\net6.0\SinavAlistirma.pdb
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.csproj.AssemblyReference.cache
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.AssemblyInfoInputs.cache
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.AssemblyInfo.cs
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.dll
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\refint\SinavAlistirma.dll
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.pdb
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\SinavAlistirma.genruntimeconfig.cache
+C:\Users\sevval.topkan\source\repos\SinavAlistirma\SinavAlistirma\obj\Debug\net6.0\ref\SinavAlistirma.dll
