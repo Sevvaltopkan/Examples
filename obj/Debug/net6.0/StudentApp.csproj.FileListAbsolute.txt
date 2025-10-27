@@ -1,0 +1,14 @@
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\bin\Debug\net6.0\StudentApp.exe
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\bin\Debug\net6.0\StudentApp.deps.json
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\bin\Debug\net6.0\StudentApp.runtimeconfig.json
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\bin\Debug\net6.0\StudentApp.dll
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\bin\Debug\net6.0\StudentApp.pdb
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfo.cs
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\StudentApp.dll
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\refint\StudentApp.dll
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\StudentApp.pdb
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\StudentApp.genruntimeconfig.cache
+C:\Users\topka\Downloads\SinavAlistirma\SinavAlistirma\StudentApp\obj\Debug\net6.0\ref\StudentApp.dll
